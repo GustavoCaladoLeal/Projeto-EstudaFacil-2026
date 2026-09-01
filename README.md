@@ -1,2 +1,2 @@
-
 Estudantes costumam ter tarefas, trabalhos e prazos espalhados em diferentes lugares, como cadernos, mensagens e plataformas da instituição. Isso dificulta saber quais atividades devem ser realizadas primeiro e aumenta o risco de perder prazos. O EstudaFácil será uma aplicação web para organizar tarefas acadêmicas em um único lugar
+O aluno consultado informou que usa a agenda online, alermes e bloco de notas digital para controlar as atividades. Relatou dificuldade para identificar quais tarefas são mais urgentes e já esqueceu alguns prazos.
